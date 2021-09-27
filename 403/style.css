@@ -1,0 +1,26 @@
+html { 
+  background:  url(ahahah.gif) no-repeat center center fixed; 
+  background-size: cover;
+  font-family: monospace;
+}
+
+h1{
+  font-size: 16vw;
+  margin: .2em .5em;
+  color: rgba(255,255,255, 0.7);
+  margin-bottom:0px;
+}
+
+h2{
+  font-size: 4vw;
+  margin: .2em .5em;
+  color: rgba(255,255,255, 0.6);
+}
+
+.error{
+  text-align:center;
+  display: table;
+  margin-right: auto;
+  margin-left: auto;
+}
+

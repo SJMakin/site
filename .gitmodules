@@ -1,0 +1,9 @@
+[submodule "cv"]
+	path = cv
+	url = git@github.com:SJMakin/cv.git
+[submodule "cloud-chamber"]
+	path = cloud-chamber
+	url = git@github.com:SJMakin/cloud-chamber.git
+[submodule "puzzle"]
+	path = puzzle
+	url = git@github.com:SJMakin/puzzle.git
