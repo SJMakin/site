@@ -64,7 +64,7 @@ a {
 }
 
 #photo {
-	background: url("profile.png") no-repeat center center;
+	background: white url("PINTR.svg") no-repeat center center;
     background-size: cover;
     background-position: center;
     filter: contrast(1.1) saturate(1.1);
